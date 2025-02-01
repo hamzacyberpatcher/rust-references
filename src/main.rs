@@ -1,6 +1,8 @@
 fn main() {
     println!("Hello, world!");
 
+    println!("hello again this time got the github running as well");
+
     let mut s = String::from("hello");
 
     meow(&mut s);
